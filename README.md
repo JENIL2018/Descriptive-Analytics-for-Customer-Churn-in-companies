@@ -74,17 +74,6 @@ Key insights derived from EDA:
 
 ---
 
-## 🤖 ChatGPT Usage
-
-ChatGPT was utilized to:
-- Identify key influencing variables.
-- Suggest visualizations and interpret plots.
-- Troubleshoot data presentation issues.
-- Generate hypotheses and business questions.
-- Assist in structuring insights and recommendations.
-
----
-
 ## 📚 References
 
 - Kaggle Datasets (Retail, E-Commerce, PowerCO, Telco, Cell2Cell)  
